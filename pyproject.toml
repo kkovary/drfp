@@ -39,6 +39,7 @@ dev = [
     "pytest-cov>=6.0.0",
     "tox>=4.24.1",
     "ruff>=0.9.4",
+    "build>=1.2.2.post1",
 ]
 
 
